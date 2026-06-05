@@ -1,73 +1,55 @@
-# React + TypeScript + Vite
+# BA Customer Review Analysis — 交互式展示网站
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+基于 React + Vite + TypeScript + TailwindCSS + Framer Motion + Apache ECharts 的数据分析作品集网站。
 
-Currently, two official plugins are available:
+## 快速开始
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+```bash
+# 安装依赖
+npm install
 
-## React Compiler
+# 启动开发服务器
+npm run dev
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# 构建生产版本
+npm run build
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+# 预览构建结果
+npm run preview
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+访问 `http://localhost:5173` 查看完整网站。
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## 网站结构
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
 ```
+src/
+├── components/
+│   ├── charts/          # ECharts 图表组件（雷达图、柱状图、折线图、热力图、散点图、饼图）
+│   ├── layout/          # 布局组件（导航栏、页脚、区域包装器）
+│   └── ui/              # UI 组件（动画卡片、渐变文字、统计卡片、徽章、图表容器）
+├── sections/
+│   ├── Hero.tsx         # 全屏首页
+│   ├── ProjectOverview.tsx     # 项目概览
+│   ├── DatasetOverview.tsx     # 数据集概览
+│   ├── TechStack.tsx           # 技术栈
+│   ├── AnalysisDashboard.tsx   # 分析仪表盘
+│   ├── analysis/        # A1-A9 分析模块
+│   ├── MLResults.tsx           # 机器学习结果
+│   ├── BusinessInsights.tsx    # 商业洞察
+│   ├── ProjectArchitecture.tsx # 项目架构
+│   └── Conclusion.tsx          # 总结与展望
+├── data/                # 静态数据层
+├── hooks/               # 自定义 Hooks
+├── theme/               # 主题系统
+└── types/               # TypeScript 类型定义
+```
+
+## 技术栈
+
+- **React 19** — UI 框架
+- **Vite 8** — 构建工具
+- **TypeScript** — 类型安全
+- **TailwindCSS 3** — 原子化 CSS
+- **Framer Motion** — 动画引擎
+- **Apache ECharts** — 交互式图表
