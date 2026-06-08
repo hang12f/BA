@@ -1,5 +1,7 @@
 # 英国航空客户反馈数据分析 (British Airways Customer Review Analysis)
 
+> **项目负责人：翁又晴 · 项子航**
+
 > 基于 PySpark 的大数据分析项目 | 数据科学作品集
 
 [![Tech](https://img.shields.io/badge/PySpark-3.x-orange)](https://spark.apache.org/)

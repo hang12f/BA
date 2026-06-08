@@ -2,13 +2,7 @@ import { useRef } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import StatCard from '../components/ui/StatCard';
 import ScrollIndicator from '../components/ui/ScrollIndicator';
-
-const HERO_STATS = [
-  { label: '客户评论', value: 3701, description: '数据清洗后有效样本' },
-  { label: '分析模块', value: 9, description: '6 个基础 + 3 个扩展' },
-  { label: 'ML 模型', value: 4, description: '逻辑回归 · 决策树 · 随机森林 · GBT' },
-  { label: '最佳 AUC', value: 0.9702, decimals: 4, description: '逻辑回归模型' },
-];
+import { projectStats } from '../data';
 
 export default function Hero() {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -37,24 +31,29 @@ export default function Hero() {
           className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-tight leading-tight mb-6">
           <span className="bg-clip-text text-transparent bg-primary-grad">英国航空</span>
           <br />
-          <span className="text-white">客户反馈数据分析</span>
+          <span className="text-slate-900">客户反馈数据分析</span>
         </motion.h1>
 
         <motion.p initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.6 }}
-          className="text-lg md:text-xl text-slate-400 max-w-3xl mx-auto mb-4 text-balance">
+          className="text-lg md:text-xl text-slate-600 max-w-3xl mx-auto mb-4 text-balance">
           基于 <span className="text-primary-light font-semibold">Apache PySpark</span> 的端到端大数据分析项目
           ——从数据预处理、探索性分析到机器学习建模与商业智能洞察
         </motion.p>
 
-        <motion.p initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.8 }}
+        <motion.p initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.72 }}
+          className="text-slate-700 text-base md:text-lg font-medium mb-2 tracking-wide">
+          项目负责人：翁又晴 &nbsp;·&nbsp; 项子航
+        </motion.p>
+
+        <motion.p initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.85 }}
           className="text-slate-500 text-sm md:text-base mb-12">
           9 个分析模块 · 4 种机器学习模型 · 交互式可视化 · 10 年数据跨度
         </motion.p>
 
         <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 1.0 }}
-          className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto">
-          {HERO_STATS.map((stat) => (
-            <StatCard key={stat.label} label={stat.label} value={stat.value} decimals={stat.decimals} description={stat.description} accent />
+          className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4 max-w-6xl mx-auto">
+          {projectStats.map((stat) => (
+            <StatCard key={stat.label} label={stat.label} value={stat.value} decimals={stat.decimals} suffix={stat.suffix} description={stat.description} accent />
           ))}
         </motion.div>
       </motion.div>
