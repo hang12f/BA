@@ -1,0 +1,909 @@
+Departure,Destination,count
+New York,London,20
+Heathrow,Singapore,19
+Manchester,Heathrow,18
+Heathrow,Miami,18
+Miami,Heathrow,17
+Johannesburg,London,17
+Vancouver,London,16
+Cape Town,London,16
+London,New York,16
+Heathrow,Dubai,15
+Singapore,Heathrow,15
+Glasgow,Heathrow,15
+Suvarnabhumi,Heathrow,15
+John F. Kennedy,Heathrow,14
+Dubai,Heathrow,14
+Vancouver,Heathrow,14
+London,Johannesburg,14
+Los Angeles,London,13
+Toronto,Heathrow,13
+London,Cape Town,13
+Washington DC,London,13
+London,Singapore,12
+Heathrow,Hong Kong,12
+Singapore,London,12
+Toronto,London,12
+Heathrow,Vancouver,11
+Miami,London,11
+Sydney,Singapore,11
+Athens,Heathrow,11
+San Francisco,Heathrow,11
+Heathrow,Cape Town,11
+Heathrow,San Francisco,10
+Athens,London,10
+Istanbul,London,10
+London,Hong Kong,10
+London,Vancouver,9
+London,Los Angeles,9
+Heathrow,Bangkok,9
+Heathrow,Kuala Lumpur,9
+O.R. Tambo,Heathrow,9
+Cape Town,Heathrow,9
+Amsterdam,London,9
+Heathrow,O.R. Tambo,9
+London,Boston,9
+Heathrow,Suvarnabhumi,9
+Hong Kong,Heathrow,9
+London,Dubai,9
+Chicago,Heathrow,9
+San Francisco,London,9
+London,Toronto,9
+Hong Kong,London,9
+Heathrow,New York,9
+London,Chicago,8
+Gatwick,Cancun,8
+Madrid,London,8
+Bangkok,London,8
+San Diego,London,8
+Kuala Lumpur,London,8
+Heathrow,Amsterdam,8
+Amsterdam,Heathrow,8
+Mumbai,London,8
+Chicago,London,8
+Los Angeles,Heathrow,8
+Edinburgh,London,8
+Manchester,London,7
+Heathrow,Boston,7
+IAD,Heathrow,7
+London,Istanbul,7
+London,Miami,7
+Belfast,London,7
+Glasgow,London,7
+Heathrow,John F. Kennedy,7
+London,Athens,7
+Heathrow,Edinburgh,7
+Boston,London,7
+Edinburgh,Heathrow,7
+Berlin,London,7
+Dubai,London,7
+Calgary,London,6
+Heathrow,LAX,6
+Heathrow,Athens,6
+Heathrow,Las Vegas,6
+Heathrow,Toronto,6
+Heathrow,Geneva,6
+London,Edinburgh,6
+New York,Heathrow,6
+Frankfurt,London,6
+Boston,Heathrow,6
+PHL,Heathrow,6
+Gatwick,Mauritius,6
+Kuala Lumpur,Heathrow,6
+Gatwick,Grantley Adams,6
+LAS,Heathrow,6
+Rome,London,6
+SEA,Heathrow,6
+London,Delhi,6
+Dublin,London,6
+Heathrow,Johannesburg,6
+London,Washington DC,6
+Madrid,Heathrow,6
+Dublin,Heathrow,6
+Gatwick,Malaga,6
+Phoenix,London,6
+London,Madrid,6
+St Lucia,Gatwick,6
+Las Vegas,London,5
+Heathrow,IAD,5
+Gatwick,Orlando,5
+London,Bangkok,5
+Malaga,Gatwick,5
+London,Geneva,5
+SYD,Singapore,5
+Larnaca,Heathrow,5
+MXP,Heathrow,5
+Amman,London,5
+GIG,Heathrow,5
+Seattle,London,5
+London,Paris,5
+BCN,Heathrow,5
+Copenhagen,London,5
+London,Kuala Lumpur,5
+Lisbon,London,5
+Prague,London,5
+Heathrow,Belfast,5
+Singapore,Sydney,5
+Brussels,London,5
+Cairo,London,5
+Gatwick,Barbados,5
+Orlando,Gatwick,5
+Orlando,London,5
+ATL,Heathrow,5
+Heathrow,Munich,5
+Heathrow,DUB,5
+Heathrow,IST,5
+Tampa,Gatwick,4
+Geneva,London,4
+Gatwick,Barcelona,4
+London,Milan,4
+Bangkok,Heathrow,4
+London,Dusseldorf,4
+Atlanta,London,4
+Gatwick,UVF,4
+Phoenix,Heathrow,4
+Gatwick,Las Vegas,4
+Heathrow,DEN,4
+Heathrow,LAS,4
+LAX,Heathrow,4
+Heathrow,ZRH,4
+London,Malaga,4
+Heathrow,YYC,4
+Bangalore,London,4
+Antigua,Gatwick,4
+London,Phoenix,4
+Gatwick,Pisa,4
+TLV,Heathrow,4
+LCA,Heathrow,4
+CPH,Heathrow,4
+Tel Aviv,London,4
+London,Larnaca,4
+Gatwick,Cape Town,4
+London,Mumbai,4
+Heathrow,Brussels,4
+London,Zurich,4
+ORD,Heathrow,4
+London,Pisa,4
+Johannesburg,Cape Town,4
+London,Rome,4
+London,Lisbon,4
+Dallas,London,4
+Geneva,Heathrow,4
+New Orleans,London,4
+Vienna,London,4
+DOH,BAH,4
+London,San Francisco,4
+Heathrow,Glasgow,4
+CDG,Heathrow,4
+Newcastle,London,4
+London,Barbados,4
+London,Seattle,4
+Heathrow,Gibraltar,4
+Bari,Gatwick,4
+Gatwick,PUJ,4
+London,Philadelphia,4
+Gatwick,MCO,4
+Gatwick,Amsterdam,4
+Rome,Heathrow,4
+Glasgow,Gatwick,4
+Gatwick,Bridgetown,4
+Heathrow,Manchester,4
+Budapest,London,3
+Washington DC,Heathrow,3
+Houston,Heathrow,3
+Heathrow,Larnaca,3
+Newark,London,3
+London,Belfast,3
+Gatwick,CUN,3
+Malta,Gatwick,3
+Heathrow,Milan Malpensa,3
+Heathrow,Sofia,3
+Nairobi,London,3
+Denver,London,3
+UVF,Gatwick,3
+Gatwick,Alicante,3
+Buenos Aires,Heathrow,3
+HND,Heathrow,3
+London,Bangalore,3
+Heathrow,Vienna,3
+Tokyo Narita,Heathrow,3
+London,Sofia,3
+DFW,Heathrow,3
+London,Venice,3
+MAD,Heathrow,3
+Gatwick,Funchal,3
+Heathrow,ORD,3
+Heathrow,LCA,3
+London,Tampa,3
+Heathrow,LIS,3
+TXL,Heathrow,3
+Gatwick,MRU,3
+London,Austin,3
+Tokyo,Heathrow,3
+Gatwick,TPA,3
+Heathrow,GRU,3
+Heathrow,PHX,3
+Vienna,Heathrow,3
+Nice,Heathrow,3
+Heathrow,BOM,3
+Heathrow,Rome,3
+Heathrow,Chicago,3
+Aberdeen,London,3
+Heathrow,BCN,3
+London,Las Vegas,3
+Seoul,London,3
+Naples,Gatwick,3
+Mexico City,London,3
+London,Shanghai,3
+Heathrow,CDG,3
+London,Vienna,3
+NAP,Gatwick,3
+LIS,Heathrow,3
+Newcastle,Heathrow,3
+Heathrow,TXL,3
+Heathrow,PHL,3
+Pisa,Gatwick,3
+London,Barcelona,3
+Heathrow,NBO,3
+Aberdeen,Heathrow,3
+Las Vegas,Heathrow,3
+Heathrow,Accra,3
+Heathrow,BHD,3
+Gatwick,Venice,3
+London,Chennai,3
+Heathrow,SEA,3
+ZRH,Heathrow,3
+FRA,Heathrow,3
+Heathrow,Malaga,3
+Newark,Heathrow,3
+Montreal,Heathrow,3
+Heathrow,Kalamata,3
+Heathrow,Istanbul,3
+Barcelona,London,3
+Seattle,Heathrow,3
+WAW,Heathrow,3
+Edinburgh,Gatwick,3
+Heathrow,IAH,3
+LBA,Heathrow,3
+Gatwick,OPO,3
+London,Glasgow,3
+London,Amsterdam,3
+Heathrow,Madrid,3
+Chennai,London,3
+London,Dublin,3
+Heathrow,Nice,3
+London,Frankfurt,3
+Bridgetown,Gatwick,3
+Heathrow,CPH,3
+Riyadh,London,3
+London,Montreal,3
+Gatwick,RAK,3
+Sofia,London,3
+Heathrow,ARN,3
+Hyderabad,London,3
+Heathrow,NCL,3
+Hamburg,London,2
+Barbados,Heathrow,2
+Lima,Gatwick,2
+Denver,Heathrow,2
+Male,London,2
+SAN,Heathrow,2
+KWI,Heathrow,2
+Heathrow,BRU,2
+Salzburg,Gatwick,2
+BUD,Heathrow,2
+London,Santiago,2
+London,Sao Paulo,2
+Heathrow,Marseille,2
+YUL,Heathrow,2
+London,Marrakech,2
+VIE,Heathrow,2
+London,John F. Kennedy,2
+Heathrow,Dublin,2
+OSL,Heathrow,2
+London,Brussels,2
+Heathrow,MAD,2
+ARN,Heathrow,2
+MLA,Gatwick,2
+Heathrow,Krakow,2
+Mumbai,Heathrow,2
+Istanbul,Heathrow,2
+Gatwick,ANU,2
+Heathrow,Bahrain,2
+London,St Petersburgh,2
+Heathrow,KRK,2
+London,Seoul,2
+Moscow,Heathrow,2
+GRU,Heathrow,2
+Gatwick,Dubrovnik,2
+Milan,London,2
+London,Denver,2
+KBP,Heathrow,2
+SOF,Heathrow,2
+Heathrow,Los Angeles,2
+London,Santiago de Chile,2
+Buenos Aires,London,2
+Heathrow,EZE,2
+RUH,Heathrow,2
+Singapore,SYD,2
+Heathrow,Malaga ,2
+Heathrow,Bologna,2
+Jeddah,London,2
+Heathrow,Cairo,2
+London,Prague,2
+Seychelles,London,2
+ACC,Heathrow,2
+Marseille,London,2
+Heathrow,FCO,2
+MRS,Heathrow,2
+Shanghai,Heathrow,2
+Zurich,Heathrow,2
+London,IOM,2
+Heathrow,PEK,2
+London,Santorini,2
+Faro,Heathrow,2
+Bermuda,Gatwick,2
+Heathrow,Keflavik,2
+Sydney,Heathrow,2
+Gatwick,Marrakech,2
+Gatwick,Salzburg,2
+BWI,Heathrow,2
+NCE,Heathrow,2
+London,Nice,2
+London,Beijing,2
+Belfast,Heathrow,2
+Heathrow,EWR,2
+London,Male,2
+Tokyo,London,2
+Munich,London,2
+Faro,Gatwick,2
+Gatwick,Faro,2
+AUH,Heathrow,2
+Gatwick,LIM,2
+Dusseldorf,London,2
+London,Moscow,2
+San Jose,London,2
+Heathrow,DEL,2
+Oslo,London,2
+Bologna,Heathrow,2
+DUS,Heathrow,2
+Heathrow,Innsbruck,2
+London,Bologna,2
+London,Tokyo Haneda,2
+Gatwick,Cagliari,2
+Baltimore,London,2
+OTP,Heathrow,2
+London,Tel Aviv,2
+Berlin,Heathrow,2
+Rotterdam,London,2
+Heathrow,MUC,2
+Gatwick,Punta Cana,2
+Heathrow,AUS,2
+Gatwick,ALC,2
+Mauritius,Gatwick,2
+Heathrow,OTP,2
+Gatwick,Bari,2
+Doha,Heathrow,2
+Accra,Heathrow,2
+Bridgetown,London,2
+Heathrow,PSA,2
+London,Mexico City,2
+Moscow,London,2
+Gatwick,SVQ,2
+Gatwick,San Jose Costa Rica,2
+AGP,Gatwick,2
+Kuwait,London,2
+DBV,Gatwick,2
+DUB,Heathrow,2
+London,Toulouse,2
+Heathrow,Tokyo Narita,2
+Zurich,London,2
+Heathrow,Santorini,2
+Heathrow,Houston,2
+Stockholm,London,2
+NBO,Heathrow,2
+London,Tenerife,2
+London,Manchester,2
+Heathrow,Paris,2
+London,Copenhagen,2
+Johannesburg,Heathrow,2
+Dallas,Heathrow,2
+London,Keflavik,2
+Malaga,London,2
+Warsaw,London,2
+London,Jeddah,2
+Kingston,London,2
+Gatwick,MLA,2
+BLR,Heathrow,2
+Amsterdam,Gatwick,2
+NAS,Heathrow,2
+London,Buenos Aires,2
+Heathrow,Lisbon,2
+Heathrow,GIG,2
+Cancun,Gatwick,2
+Mexico City,Heathrow,2
+London,Abu Dhabi,2
+Heathrow,SVO,2
+Marseille,Heathrow,2
+Gatwick,Genoa,2
+Heathrow,BUD,2
+Heathrow,Nairobi,2
+Heathrow,PRG,2
+Larnaca,London,2
+Beijing,Heathrow,2
+Heathrow,Doha,2
+San Jose,Gatwick,2
+Heathrow,Tenerife South,2
+Gatwick,St Lucia,2
+Catania,Gatwick,2
+Heathrow,Venice,2
+London,Bengaluru,2
+BSL,Heathrow,2
+Grantley Adams,Gatwick,2
+SSH,Gatwick,2
+Baltimore,Heathrow,2
+London,Johannesburg ,2
+London,Berlin,2
+Heathrow,DFW,2
+PHX,Heathrow,2
+London,Bucharest,2
+Beijing,London,2
+London,Cairo,2
+Paris,Heathrow,2
+London,Tokyo,2
+Gatwick,Antigua,2
+Heathrow,Basel,2
+Lisbon,Heathrow,2
+Leeds Bradford,Heathrow,2
+Lyon,London,2
+Heathrow,Dusseldorf,2
+RAK,Gatwick,2
+Heathrow,Tokyo,2
+London,Ibiza,2
+Gatwick,Paphos,2
+Gatwick,DBV,2
+Doha,London,2
+Rio de Janeiro,London,2
+Gatwick,Glasgow,2
+Pisa,London,2
+Gatwick,Mauritius ,2
+Hamburg,Heathrow,2
+Gatwick,Tenerife,2
+London Heathrow ,Madrid,1
+MAA,Heathrow,1
+lgw,alicante,1
+Heathrow,Ibiza,1
+Gatwick,VCE,1
+Heathrow,AGP,1
+Gatwick,SZG,1
+Bologna,London,1
+Islamabad,London,1
+Rome,Gatwick,1
+Vancouver Canada,London,1
+Bucharest,London,1
+London,Mauritius,1
+Paris,London,1
+Heathrow,PVG,1
+Heathrow,IAD ,1
+Heathrow,Seychelles,1
+London,Olbia,1
+Barcelona,Gatwick,1
+Gatwick,Bermuda,1
+Gatwick,VLC,1
+London,Atlanta,1
+Barbados,Gatwick,1
+Heathrow,Biarritz,1
+LYS,Heathrow,1
+Sofia,Heathrow,1
+Heathrow,Bucharest,1
+Los Angeles,London Heathrow ,1
+Heathrow,Zakinthos,1
+PVG,Heathrow,1
+Santorini,Heathrow,1
+Heathrow,Naples,1
+ORY,Heathrow,1
+Heathrow,Toulouse,1
+Heathrow,Porto,1
+IKA,Heathrow,1
+Gatwick,MLE,1
+Abu Dhabi,Muscat,1
+Heathrow,Toronto ,1
+London,Calgary,1
+Gatwick,Gibraltar,1
+Funchal,Heathrow,1
+Gatwick,John F. Kennedy,1
+iAH,Heathrow,1
+London,san Francisco,1
+Heathrow,Corfu ,1
+London,Kuala lumpur,1
+London,Milan ,1
+Gatwick,Orlando ,1
+OPO,Gatwick,1
+Heathrow,MAA,1
+Gatwick,NAP,1
+Gatwick,Barcelona ,1
+Brussels,Heathrow,1
+Doha, Gatwick,1
+London,Copenhagen ,1
+YVR-LIS,Heathrow,1
+London,RTM,1
+Heathrow,Denver,1
+TRN,Gatwick,1
+Islamabad,Gatwick,1
+Cape Town,Johannesburg,1
+New York,Copenhagen ,1
+St Petersburg,London,1
+Edinburgh,Florence ,1
+FCO,Heathrow,1
+London,Muscat,1
+Leeds,London,1
+Hannover,Heathrow,1
+London,San Francisco ,1
+Philadelphia,Heathrow,1
+Bordeaux,Gatwick,1
+DUB,PHL,1
+London,Rio de Janeiro,1
+FCO,Gatwick,1
+Heathrow,KGS,1
+London,Turkey,1
+Basel,Heathrow,1
+Tokyo Haneda,London,1
+IAH,Heathrow,1
+London,Bombay,1
+Gatwick,Bordeaux,1
+Marrakech,Gatwick,1
+CTU,Heathrow,1
+Singapore, SYD,1
+YYC,Heathrow,1
+Jersey,London,1
+Palma de Mallorca,Heathrow,1
+London,Munich,1
+Chicago,Barcelona,1
+London,Paris Orly,1
+Heathrow,Orlando,1
+Heathrow,Tallinn,1
+MRU,Heathrow,1
+Gatwick,Antalya,1
+London,Bergerac,1
+CNX ,Suvarnabhumi,1
+Heathrow,YUL,1
+Heathrow,LUX,1
+Pisa,Heathrow,1
+Stuttgart,London,1
+LHR - EDI,Heathrow,1
+London,Faro,1
+London,Helsinki,1
+Sweden,London,1
+Johannesburg,Victoria Falls,1
+Gatwick,FCO,1
+AUS,Heathrow,1
+Tel Aviv,London LHR,1
+Heathrow,Lahore,1
+Heathrow,Bengaluru,1
+Austin,Dublin,1
+New York,Geneva,1
+Heathrow,NCE,1
+John F. Kennedy,London,1
+Cape Town,Durban,1
+Portland,London,1
+Gatwick,AGP,1
+FRA,London,1
+Austin,London,1
+Mykonos,London,1
+Hyderabad,Heathrow,1
+Nashville,Chicago,1
+Warsaw,Heathrow,1
+MEL,SYD,1
+Gatwick,FAO,1
+Gatwick,Montpelier,1
+New York ,Heathrow,1
+Toronto,Pisa London Heathrow,1
+OUL,HEL,1
+Dubai,London Heaathrow,1
+London,Murcia ,1
+Gatwick,Rome Fiumicino,1
+Corfu,London,1
+Heathrow,BSL,1
+Gatwick,Tampa International,1
+ZRH,London,1
+London,Luanda,1
+London,Shannon,1
+Santorini,London,1
+Johannesburg,Durban,1
+VCE,Gatwick,1
+Jersey,Gatwick,1
+Venice,Heathrow,1
+London,Seoul ,1
+Abu Dhabi,Heathrow,1
+London,San francisco,1
+London,Aberdeen,1
+Delhi,London,1
+London,Lyon,1
+Gatwick,Salzburg ,1
+Heathrow,ATL,1
+London,Funchal ,1
+Belfast ,London,1
+Porto,London,1
+Heathrow,AMM,1
+Gatwick,IBZ,1
+Heathrow,Athens Greece ,1
+Basel,London,1
+Heathrow,New York ,1
+Rome Fiumicino,London,1
+Nice,London,1
+London,Berlin Tegel,1
+Gatwick,Grenada,1
+Gatwick,NCE,1
+PSA,Heathrow,1
+London,Phoenix ,1
+MRU,Gatwick,1
+ICN,Heathrow,1
+Manchester,Cape Town,1
+Sydney,London Heathrow ,1
+Jersey,Heathrow,1
+Edmonton,Cairo,1
+Fort Lauderdale,Gatwick,1
+Bergen,Heathrow,1
+MCO,Miami,1
+Amman Jordan,London,1
+Palma,Heathrow,1
+New York,Heathrow ,1
+Heathrow,Dallas,1
+Heathrow,Abuja,1
+Heathrow,Phoenix,1
+Las Vegas,Gatwick,1
+Cape Town,DUR,1
+SJO,Gatwick,1
+Funchal,London Gatwick ,1
+Grand Cayman,London,1
+Las Vegas,London Heathrow ,1
+Heathrow,Marrakech,1
+London,Corfu,1
+Istambul,Heathrow,1
+Heathrow,HEL,1
+CAI,Heathrow,1
+Gatwick,Dalaman ,1
+Heathrow,Budapest,1
+Heathrow,Rome FCO,1
+Gatwick,Tampa,1
+Copenhagen,Heathrow,1
+Heathrow,Seattle Tacoma,1
+Suvarnabhumi,LAD & ABV,1
+Abu Dhabi,London,1
+Accra,London,1
+Marrakech,Heathrow,1
+Heathrow,ICN,1
+Gatwick,BCN,1
+London,Seville,1
+Keflavik ,London,1
+MLA,LHR ,1
+Sydney,Singapore / London,1
+Funchal,Gatwick,1
+Berlin Tegel,London,1
+London,Sydney,1
+London,Moscow Domodedovo,1
+Heathrow,Baltimore,1
+GIB,Heathrow,1
+Heathrow,Bodrum,1
+Dusseldorf,Los Angeles,1
+Zakinthos,Heathrow,1
+Krakow,London,1
+SYD,Heathrow,1
+Tokyo Haneda,Heathrow,1
+Heathrow,Bergen,1
+IST,Heathrow,1
+Rio De Janeiro,Heathrow,1
+Stockholm,Heathrow,1
+Kiev,Heathrow,1
+Venice,Gatwick,1
+Heathrow,Abu Dhabi,1
+San Jose,Heathrow,1
+Heathrow,NAS,1
+London,Alicante,1
+Heathrow,Tenerife south,1
+Santiago,London,1
+Tenerife,London,1
+Heathrow,Cairo ,1
+Seoul Incheon,Heathrow,1
+London,New Delhi,1
+Kingston,Gatwick,1
+Gatwick,PFO,1
+Manchester,Philadelphia,1
+Heathrow,Aberdeen,1
+London LGW,Lima,1
+Orlando,Heathrow,1
+TPA,Gatwick,1
+MUC,Heathrow,1
+Gothenburg,London,1
+Orlando,Accra,1
+Paphos,Gatwick,1
+London,Granada,1
+Nassau,London,1
+Gatwick,Rome,1
+Gatwick,Naples,1
+Heathrow,Stuttgart,1
+Reykjavik,London,1
+Gatwick,BIO,1
+London,Singapore ,1
+Heathrow,Berlin,1
+Heathrow,Stockholm,1
+Mahe,London,1
+Dubrovnik,Gatwick,1
+Rhodes,Gatwick,1
+London,Marrakesh,1
+Turin,Gatwick,1
+London,Reykjavik ,1
+Heathrow,Seoul Incheon,1
+Helsinki,London,1
+Warsaw,London-Heathrow,1
+London,Dubrovnik,1
+London,Abuja,1
+DUB,London,1
+DME,Heathrow,1
+Heathrow,Abuja Nigeria,1
+Port of Spain,St. Lucia,1
+Heathrow,Warsaw,1
+Gatwick,Fort Lauderdale ,1
+Gatwick,Geneva,1
+London,Nashville,1
+Gatwick,Edinburgh,1
+London,SNN,1
+Durban,Cape Town,1
+Heathrow,Oslo,1
+Punta Cana,Gatwick,1
+London,Nassau,1
+Zagreb,Heathrow,1
+Sao Paulo,London,1
+doha,London,1
+Oakland,Gatwick,1
+Heathrow,JED,1
+PMI,Heathrow,1
+Verona,Gatwick,1
+NCL,Heathrow,1
+London,St Lucia,1
+Heathrow,Mumbai,1
+Las Vegas,Venice,1
+Durban,Johannesburg,1
+Florence,Bristol,1
+Gatwick,MAD,1
+Heathrow,STR,1
+London,Dallas,1
+London,Reykjavik,1
+Heathrow,MEX,1
+JED,Heathrow,1
+Keflavik,Heathrow,1
+Zagreb,London,1
+Heathrow,Lyon,1
+Heathrow,JTR,1
+Mauritius,London,1
+London,Thira,1
+Sao Paulo,Heathrow,1
+Heathrow,MIa,1
+London,Tokyo Narita,1
+London,Malta,1
+Heathrow,Mexico City,1
+Heathrow,BWI,1
+Brindisi,London,1
+Heathrow,WAW,1
+London,Budapest,1
+Heathrow,Faro,1
+Kalamata,Heathrow,1
+Stavanger,London,1
+SJC,Heathrow,1
+Gatwick,Tirana,1
+London,Doha,1
+Atlanta,Heathrow,1
+Oakland,Heathrow,1
+Heathrow,Haneda,1
+Gatwick,Orlando MCO,1
+Heathrow,JFK  ,1
+Palma,Gatwick,1
+Heathrow,Funchal,1
+London,Rio De Janeiro,1
+London,Warsaw,1
+MAD,Singapore,1
+London,Tehran,1
+Nice,Gatwick,1
+Boston,Tirana London,1
+Saint Lucia,Gatwick,1
+BRI,Gatwick,1
+London,ZRH,1
+Philadelphia,London,1
+Heathrow,SAN,1
+London,Newcastle,1
+Faro,Gatwick ,1
+Seville,Gatwick,1
+LED,Heathrow,1
+Heathrow,OSL,1
+Bucharest,Manchester,1
+Heathrow,Austin,1
+GOT,Heathrow,1
+PEK,Heathrow,1
+Heathrow,Chicago ,1
+PUJ,Gatwick,1
+Manchester,LHR ,1
+Toulouse,Heathrow,1
+VIE,Gatwick,1
+Lyon,Heathrow,1
+Miami,Paris,1
+Grenada,Gatwick,1
+FUE,Gatwick,1
+CUN,Gatwick,1
+MEX,Heathrow,1
+Gatwick,SSH ,1
+Bucharest,Heathrow,1
+London,Stockholm Arlanda,1
+Heathrow,DME,1
+John F. Kennedy,Gatwick,1
+Inverness,London,1
+London,Mumbai ,1
+Luxembourg,London,1
+Kos,Gatwick,1
+Heathrow,Larnaca Cyprus,1
+Gatwick,Valencia,1
+Heathrow,Delhi,1
+Heathrow,Pisa,1
+Heathrow,MXP,1
+ABV,Heathrow,1
+Dubrovnik,London,1
+Gatwick,Fort Lauderdale,1
+Manchester,Billund,1
+UVF ,Gatwick,1
+Heathrow,BGO,1
+Heathrow,Berlin Tegel,1
+Tampa,London,1
+London,FLR,1
+Gatwick,CTA,1
+Heathrow,Jersey,1
+Valencia,Gatwick,1
+FNC,Gatwick,1
+London,Vancouver ,1
+BAH,Heathrow,1
+Heathrow,Brindisi,1
+London,New Orleans,1
+Heathrow,Frankfurt,1
+Dubrovnik,Heathrow,1
+Heathrow,Hannover,1
+Heathrow,GIB,1
+London,Houston,1
+ABZ,Heathrow,1
+Gatwick,FNC,1
+Punta Cana,London,1
+London,Gibraltar,1
+Gatwick,Madeira,1
+London,TXL,1
+Seville,London Gatwick ,1
+Heathrow,Athens Greece,1
+Tenerife,Gatwick,1
+Heathrow,Nassau,1
+Venice,London,1
+Gatwick,Turin,1
+Gatwick,Lima,1
+PRG,Heathrow,1
+Inverness,Singapore,1
+Heathrow,Chengdu,1
+Glasgow,New York,1
+London,Accra,1
+Heathrow,KBP,1
+SVQ,Gatwick,1
+London,Singapire,1
+HEL,Heathrow,1
+Preveza,London,1
+London,Hamburg,1
+Fuereventura,Gatwick,1
+Tokyo Narita,London,1
+Sao Paulo,Heathrow ,1
+London,Newark,1
+Tenerife,Heathrow,1
+London,Kefalonia ,1
+Tirana,London,1
+London,Chicago ,1
+Madeira,Gatwick,1
+London,Nairobi,1
+Gatwick,BDA,1
+Heathrow,SOF,1
+Dalaman,Gatwick ,1
+Heathrow,Seoul,1
+Heathrow,Hamburg ,1
+London,Algiers,1
+London,Los Angesles,1

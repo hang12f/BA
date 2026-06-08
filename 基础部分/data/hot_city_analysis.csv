@@ -1,0 +1,34 @@
+Departure,Destination,count
+New York,London,20
+Heathrow,Singapore,19
+Manchester,Heathrow,18
+Heathrow,Miami,18
+Miami,Heathrow,17
+Vancouver,London,16
+Cape Town,London,16
+London,New York,16
+Heathrow,Dubai,15
+Singapore,Heathrow,15
+Glasgow,Heathrow,15
+Vancouver,Heathrow,14
+London,Johannesburg,14
+London,Cape Town,13
+London,Singapore,12
+Heathrow,Hong Kong,12
+Singapore,London,12
+Miami,London,11
+Heathrow,Cape Town,11
+London,Hong Kong,10
+Cape Town,Heathrow,9
+London,Dubai,9
+Heathrow,New York,9
+Manchester,London,7
+London,Miami,7
+Glasgow,London,7
+New York,Heathrow,6
+Heathrow,Johannesburg,6
+Gatwick,Cape Town,4
+Glasgow,Gatwick,4
+Cape Town,Johannesburg,1
+Manchester,Cape Town,1
+Glasgow,New York,1

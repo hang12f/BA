@@ -1,0 +1,23 @@
+Featuresc,Importances
+TravelForLeisure,0.0
+TravelForBusiness,0.0
+Economy Class,0.0
+Business Class,0.0005480249838615529
+Premium Economy,0.0
+First Class,0.0
+DepartInOct,0.0
+DepartInSep,0.00033147653080620984
+DepartInAug,0.0
+DepartInNov,0.0014663602077829132
+DepartInDec,0.0
+DepartInJun,0.0012261919243659928
+DepartInJul,0.0
+DepartInMar,0.0
+DepartInJan,0.0
+DepartInMay,0.0013608977628607208
+DepartInApr,0.0
+DepartInFeb,0.0
+SeatComfort,0.11106385033465786
+CabinStaffService,0.05889029509845507
+GroundService,0.24048845039689618
+Food&Beverages,0.5846244527603135
